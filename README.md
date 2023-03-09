@@ -6,7 +6,7 @@
 
 ## Data Import
 1. The raw data file can be downloaded at [here](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE179633).
-2. The disease states are HC, DLE and SLE. The locations are epidermis (E) and Dermis (D). The number of samples are
+2. The disease states are HC, DLE and SLE. The locations are epidermis (E) and Dermis (D). The number of samples are  
 ||HC|DLE|SLE|
 |--|--|--|--|
 |E|4|5|5|
